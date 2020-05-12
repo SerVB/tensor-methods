@@ -3,5 +3,5 @@ matplotlib
 numpy
 pandas
 tensorflow==1.15.0
-tensorflow-gpu==1.15.0
+tensorflow-gpu==1.15.2
 tqdm
